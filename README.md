@@ -1,2 +1,2 @@
 # HackerEarth_Java
-Solution to Hacker Earth problems in Java.
+Solution to HackerEarth practice problems in Java.
